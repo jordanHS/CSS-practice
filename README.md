@@ -1,12 +1,12 @@
-# _{Hello & Goodbye World}_
+# _{Favorite things}_
 
-#### _{Contains print for hello and goodbye world}, {8-6-19}_
+#### _{Contains default text for Michael's favorite things}, {8-6-19}_
 
 #### By _**{Ryan Jones & Zach Krogh}**_
 
 ## Description
 
-_{Covers HTML to print hello and goodbye world in the browser }_
+_{Basic HTML anchor tags and images}_
 
 ## Setup/Installation Requirements
 
